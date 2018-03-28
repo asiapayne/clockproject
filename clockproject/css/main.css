@@ -1,0 +1,32 @@
+body {
+  background-color: #E5E6E4;
+}
+div {
+  font-size: 45px;
+  color: #FFFFFF;
+  margin: auto;
+  text-align: center;
+  height: 95px;
+  position: absolute; top: 0; left: 0; right: 0; bottom: 0;
+  font-family: 'Dancing Script', cursive;
+}
+
+#header {
+  font-family: 'Dancing Script', cursive;
+  font-weight: 100;
+  font-size: 6em;
+  text-align: center;
+  margin-top: 25px;
+  color: #FFFFFF;
+}
+
+.middle {
+  background-color: gainsboro;
+  height: 400px;
+}
+
+#backgroundimage {
+  height: 400px;
+  opacity: 0.2;
+  border-radius: 500px;
+}
